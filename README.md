@@ -15,23 +15,5 @@ To reproduce the analysis and figures presented in our manuscript please see the
 ## GEO dataset
 Check out our jupyter notebook (in R environment) tutorial at [*EmptyNN - Cell Hashing Dataset Tutorial*](https://github.com/lkmklsmn/empty_nn/blob/master/tutorial/EmptyNN%20-%20Cell%20Hashing%20Dataset%20Tutorial.ipynb).
 
-## Installation
-EmptyNN is implemented in R and depends on the **keras** and **Matrix** R packages.
-
-#### Option 1
-```
-$ git clone http://github.com/lkmklsmn/empty_nn
-$ cd empty_nn
-
-## enter R and install packages
-$ R
-
-> install.packages("EmptyNN_1.0.tar.gz", repos = NULL, type = "source")
-```
-#### Option 2
-```
-> install.packages("devtools")
-> library(devtools)
-> install_github("lkmklsmn/empty_nn")
-```
-
+## Citation
+Please cite our manuscript [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.11.02.514609v1.abstract).
