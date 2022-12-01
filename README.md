@@ -1,6 +1,8 @@
 # Single-cell multi-omics decodes regulatory programs during development of mouse secondary palate
-The abnormal perturbation in gene regulation during palatogenesis may lead to cleft palate, a major congenital birth defect in humans and mice. However, **a comprehensive multi-omic map** of the developing secondary palate at single-cell resolution is **lacking**. 
-
+The abnormal perturbation in gene regulation during palatogenesis may lead to **cleft palate**, a major congenital birth defect in humans and mice. However, **a comprehensive multi-omic map** of the developing secondary palate at single-cell resolution is **lacking**. 
+<p align="center">
+<img src="CleftLip.svg">
+</p>
 
 In this study, we performed **single-cell multiome sequencing (10x Multiome)** and profiled chromatin accessibility (snATAC-seq) and gene expression (snRNA-seq) simultaneously within the same cells (n = 36,154) isolated from mouse secondary palate across embryonic days (E) 12.5, E13.5, E14.0, and E14.5. For more info please see our [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.11.02.514609v1.abstract).
 <p align="center">
