@@ -9,7 +9,7 @@ In this study, we performed **single-cell multiome sequencing (10x Multiome)** o
 <img src="Workflow.PNG">
 </p>
 
-## Summary of study
+## Animated summary of study
 <p align="center">
 <img src="Animation_of_Multiome.gif">
 </p>
@@ -17,8 +17,11 @@ In this study, we performed **single-cell multiome sequencing (10x Multiome)** o
 ## Reproducibility
 To reproduce the analysis and figures presented in our manuscript please see the [Reproducibility](https://github.com/fangfang0906/Single_cell_multiome_palate/tree/master/Reproducibility) folder.
 
-## GEO dataset
+## Data availability
+### raw dataset
 Check out our raw datasets and description at [GSE218576](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE218576).
+### processed dataset with cell type annotations and embedding coordinates
+Check out our processed datasets at [Google drive](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE218576).
 
 ## Citation
 Please cite our manuscript [bioRxiv preprint](https://www.biorxiv.org/content/10.1101/2022.11.02.514609v1.abstract).
